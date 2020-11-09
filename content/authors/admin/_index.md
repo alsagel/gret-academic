@@ -1,37 +1,28 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: GRET - UAB
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Grup de Recerca en Educació i Treball
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Departament de Sociologia |  Universitat Autònoma de Barcelona
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Grup de Recerca en Educació i Treball
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Recerca educativa
+- Itineraris educatius
+- Educació obligatòria i postobligatòria
+- Estudiants universitaris
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +34,11 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,10 +54,19 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Admin
+-
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+El Grup de Recerca Educació i Treball (GRET) el van crear tres investigadors i professors del Departament de Sociologia de la Facultat de Ciències Polítiques i Sociologia de la Universitat Autònoma de Barcelona l'any 1987. L'objectiu dels tres membres fundadors era el de combinar la disciplina de la sociologia amb l'economia i la psicologia social, les seves respectives formacions inicials. Així doncs, la coherència d'aquest grup de recerca s'ha anat construint al llarg dels anys de treball en comú.
+
+La trajectòria de recerca del grup s'ha anat estructurant en 3 línies de recerca encapçalades pels tres investigadors sèniors que, amb el pas del temps, han anat incorporant investigadors interessats en els tres àmbits d'estudi:
+
+* Joventut i transició Escola-Treball
+* Expansió educativa, competències i mercat de treball
+* Estudis Universitaris
+
+Finalment cal destacar la presència dels “Col·laboradors externs” que han permès que durant aquest període els treballs de recerca del grup hagin comptat amb la col·laboració de reconeguts investigadors i investigadores.
+
